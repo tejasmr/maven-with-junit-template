@@ -2,10 +2,10 @@
 <project>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>tezz.util</groupId>
+    <groupId>com.example</groupId>
     <artifactId>junit-build</artifactId>
     <version>0.1-SNAPSHOT</version>
-    <name>Tezz Utility library for DSA</name>
+    <name>Maven with Junit Template</name>
 
     <properties>
          <maven.compiler.source>14</maven.compiler.source>
