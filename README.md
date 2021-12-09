@@ -30,3 +30,5 @@ Here package name will be com.example, you can have your own package name. Note 
 All source files in src/main/java/com/example/*
 
 All test files in src/test/java/com/example/*
+
+For javadoc along with this, check : https://github.com/tezz-io/maven-with-junit-javadoc-template
