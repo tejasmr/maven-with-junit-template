@@ -3,9 +3,9 @@
 > Remember to remove the contents of this README.md when you use this template.
 
 Define your 
-group id: com.example
-artifact id: junit-build
-name: Maven with Junit Template
+- group id: com.example
+- artifact id: junit-build
+- name: Maven with Junit Template
 
 all in pom.xml
 
